@@ -4,34 +4,20 @@
 </h1>
 
 ## About Me
-Backend-focused developer in training with strong interest in databases and software architecture.
+Backend developer in training focused on building strong foundations in databases and backend logic.
 
-Currently strengthening core fundamentals before moving into advanced system design.
+Currently working on improving:
+- SQL query writing and optimization
+- Database modeling and normalization
+- Python backend logic and modular code structure
+- Clean Git workflows and version control practices
 
-- 🧠 Learning: Database modeling, backend logic, software architecture
-- 🐍 Working with: Python
-- 🗄️ Databases: SQL Server
-- ⚙️ Tools: Git, GitHub, SQL Server Management Studio
-- 🎯 Goal: Build solid backend systems with clean and maintainable code
+Although my primary focus is backend development, I also build frontend projects to strengthen my full-stack understanding and software structure skills.
 
----
+## Tech Stack
+**Languages:** Python, SQL  
+**Database:** SQL Server  
+**Tools:** Git, GitHub, SQL Server Management Studio  
 
-## 💻 Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
----
-
-## 📌 Current Focus
-
-Improving backend development skills, database optimization, and writing structured, maintainable code.
+## Current Goal
+Master backend fundamentals before moving into larger system architecture and scalable application design.
