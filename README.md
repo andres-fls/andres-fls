@@ -6,6 +6,8 @@
 ## 🚀 About Me
 Backend developer in training focused on building solid foundations in databases and backend logic.
 
+🎓 Currently studying Analysis and Software Development (ADSO) at SENA.
+
 Currently improving:
 - 🧠 SQL query writing & optimization
 - 🗂️ Database modeling & normalization
