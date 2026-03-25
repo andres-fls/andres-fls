@@ -3,38 +3,78 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-## 🚀 About Me
-Backend developer in training focused on building solid foundations in databases and backend logic.
+**Software Development Student · Backend & Databases**
 
-🎓 Currently studying Analysis and Software Development (ADSO) at SENA.
-
-Currently improving:
-- 🧠 SQL query writing & optimization
-- 🗂️ Database modeling & normalization
-- 🐍 Backend logic in Python (modular structure & clean code)
-- 🔁 Git workflows & version control practices
-
-Although my main focus is backend development, I also build frontend projects to strengthen my full-stack understanding and software architecture foundations.
+Aprendiz de Análisis y Desarrollo de Software (ADSO) en SENA — Cartagena, Colombia.
+Focused on building solid, well-structured systems from the database layer up.
 
 ---
 
-## 🛠 Tech Stack
+## About Me
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- 🎓 Studying **ADSO** at SENA — Centro para la Industria Petroquímica (CIP)
+- 🗄️ Genuinely passionate about **databases, SQL, and relational modeling**
+- 🔁 Learning proper **Git workflows**: branching, pull requests, branch protection
+- 🐧 Daily-driving **Linux (Manjaro)** as my main development environment
+- 🎯 Goal: Build a strong backend and database foundation before scaling to larger architectures
 
 ---
 
-## 🎯 Current Goal
-Master backend fundamentals before progressing into larger system architecture and scalable application design.
+## Languages
+
+[![Languages](https://skillicons.dev/icons?i=cs,py,bash&theme=dark)](https://skillicons.dev)
+
+| Language | Context |
+|----------|---------|
+| C# | Desktop apps with Windows Forms (.NET) |
+| Python | Learning backend logic and scripting |
+| Bash / Zsh | Daily Linux terminal usage |
+
+---
+
+## Databases
+
+[![Databases](https://skillicons.dev/icons?i=sqlserver&theme=dark)](https://skillicons.dev)
+
+| Tool | Context |
+|------|---------|
+| SQL Server | Relational modeling, queries, SSMS |
+
+---
+
+## Tools & Environment
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,rider,linux,notion,jira&theme=dark)](https://skillicons.dev)
+
+| Tool | Context |
+|------|---------|
+| Git + GitHub | Version control, branching, pull requests |
+| VS Code | General development |
+| JetBrains Rider | C# development on Linux |
+| Linux (Manjaro) | Main OS |
+| Notion | Notes and personal organization |
+| Jira | Project tracking (SENA coursework) |
+
+---
+
+## Active Project
+
+### 🗓️ EventPlanner
+Desktop event management system for **Centro para la Industria Petroquímica (CIP)** at SENA.
+
+Built with **C# Windows Forms + SQL Server** — includes user authentication, event registration, group management, and participation reports for the Bienestar al Aprendiz area.
+
+→ [View repository](https://github.com/andres-fls/EventPlanner)
+
+---
+
+## Currently Improving
+
+- SQL query writing: JOINs, subqueries, GROUP BY, aggregations
+- Database modeling and normalization (ERD, relational design)
+- C# + SQL Server integration in desktop applications
+- Git workflow discipline: commits, PRs, protected branches
+
+---
+
+*Last updated: March 2026*
