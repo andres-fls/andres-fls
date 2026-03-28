@@ -44,12 +44,13 @@ Focused on building solid, well-structured systems from the database layer up.
 
 ## Tools & Environment
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,rider,linux,notion,jira&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,linux,notion,jira&theme=dark)](https://skillicons.dev)
 
 | Tool | Context |
 |------|---------|
 | Git + GitHub | Version control, branching, pull requests |
 | VS Code | General development |
+| Visual Studio | C# development |
 | JetBrains Rider | C# development on Linux |
 | Linux (Manjaro) | Main OS |
 | Notion | Notes and personal organization |
