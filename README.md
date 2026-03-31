@@ -8,6 +8,10 @@
 Aprendiz de Análisis y Desarrollo de Software (ADSO) en SENA — Cartagena, Colombia.
 Focused on building solid, well-structured systems from the database layer up.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andres-fls&color=blue&style=flat" alt="Profile views" />
+</p>
+
 ---
 
 ## About Me
@@ -58,7 +62,7 @@ Focused on building solid, well-structured systems from the database layer up.
 
 ---
 
-## Active Project
+## Featured Projects
 
 ### 🗓️ EventPlanner
 Desktop event management system for **Centro para la Industria Petroquímica (CIP)** at SENA.
@@ -66,6 +70,17 @@ Desktop event management system for **Centro para la Industria Petroquímica (CI
 Built with **C# Windows Forms + SQL Server** — includes user authentication, event registration, group management, and participation reports for the Bienestar al Aprendiz area.
 
 → [View repository](https://github.com/andres-fls/EventPlanner)
+
+*(More personal projects coming soon – I'm currently polishing them before publishing)*
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andres-fls&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres-fls&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="42%" />
+</div>
 
 ---
 
@@ -75,6 +90,13 @@ Built with **C# Windows Forms + SQL Server** — includes user authentication, e
 - Database modeling and normalization (ERD, relational design)
 - C# + SQL Server integration in desktop applications
 - Git workflow discipline: commits, PRs, protected branches
+
+---
+
+## Contact
+
+📧 **andres.fas.070893@gmail.com**  
+📍 **🇨🇴 Colombia**
 
 ---
 
