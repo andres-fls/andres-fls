@@ -24,6 +24,15 @@ Focused on building solid, well-structured systems from the database layer up.
 
 ---
 
+## 🧠 Technical Focus
+
+- Backend-oriented development (C# / .NET)
+- Relational database design (SQL Server)
+- Query optimization and data modeling
+- Structured application architecture
+
+---
+
 ## Languages
 
 [![Languages](https://skillicons.dev/icons?i=cs,py,bash&theme=dark)](https://skillicons.dev)
@@ -78,7 +87,7 @@ Built with **C# Windows Forms + SQL Server** — includes user authentication, e
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andres-fls&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" alt="Streak Stats" width="70%" />
+  <img src="https://raw.githubusercontent.com/andres-fls/andres-fls/main/github-metrics.svg" />
 </p>
 
 ---
