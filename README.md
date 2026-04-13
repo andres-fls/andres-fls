@@ -87,6 +87,12 @@ Built with **C# Windows Forms + SQL Server** — includes user authentication, e
 ## GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres-fls&theme=react-dark&bg_color=0d1117&color=2ea043&line=2ea043&point=9be9a8&area=true&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/andres-fls/andres-fls/main/github-metrics.svg" />
 </p>
 
