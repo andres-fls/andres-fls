@@ -48,10 +48,12 @@ Focused on building solid, well-structured systems from the database layer up.
 ## Databases
 
 [![Databases](https://skillicons.dev/icons?i=sqlserver&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlserver,mongodb&theme=dark)](https://skillicons.dev)
 
 | Tool | Context |
 |------|---------|
 | SQL Server | Relational modeling, queries, SSMS |
+| MongoDB | NoSQL, document-based modeling, Atlas Cloud |
 
 ---
 
