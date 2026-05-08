@@ -75,14 +75,21 @@ Focused on building solid, well-structured systems from the database layer up.
 
 ## Featured Projects
 
+## Featured Projects
+
+### 🗓️ EventPlus
+Desktop event management system built for **SENA academic projects**.
+
+Built with **C# Windows Forms + MongoDB Atlas** — includes role-based authentication (Leader/Invitee), event CRUD, attendee management with schedule conflict validation, and monthly filtering.
+
+→ [View repository](https://github.com/andres-fls/eventPlus)
+
 ### 🗓️ EventPlanner
 Desktop event management system for **Centro para la Industria Petroquímica (CIP)** at SENA.
 
 Built with **C# Windows Forms + SQL Server** — includes user authentication, event registration, group management, and participation reports for the Bienestar al Aprendiz area.
 
 → [View repository](https://github.com/andres-fls/EventPlanner)
-
-*(More personal projects coming soon – I'm currently polishing them before publishing)*
 
 ---
 
@@ -116,4 +123,4 @@ Built with **C# Windows Forms + SQL Server** — includes user authentication, e
 
 ---
 
-*Last updated: March 2026*
+*Last updated: May 2026*
