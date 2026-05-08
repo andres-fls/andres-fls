@@ -75,8 +75,6 @@ Focused on building solid, well-structured systems from the database layer up.
 
 ## Featured Projects
 
-## Featured Projects
-
 ### 🗓️ EventPlus
 Desktop event management system built for **SENA academic projects**.
 
