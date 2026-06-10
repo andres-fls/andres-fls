@@ -1,145 +1,124 @@
-<h1 align="center">  
-  Hi, I'm Andres Sanchez   
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
-</h1>  Software Development Student · Backend & Databases
+<h1 align="center">
+  Hi, I'm Andres Sanchez 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
+
+**Software Development Student · Backend & Databases**
 
 Aprendiz de Análisis y Desarrollo de Software (ADSO) en SENA — Cartagena, Colombia.
 Focused on building solid, well-structured systems from the database layer up.
 
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=andres-fls&color=blue&style=flat" alt="Profile views" />  
-</p>  
----
-
-About Me
-
-🎓 Studying ADSO at SENA — Centro para la Industria Petroquímica (CIP)
-
-🗄️ Genuinely passionate about databases, SQL, and relational modeling
-
-🔁 Learning proper Git workflows: branching, pull requests, branch protection
-
-🐧 Daily-driving Linux (Manjaro) as my main development environment
-
-🎯 Goal: Build a strong backend and database foundation before scaling to larger architectures
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andres-fls&color=blue&style=flat" alt="Profile views" />
+</p>
 
 ---
 
-🧠 Technical Focus
+## About Me
 
-Backend-oriented development (C# / .NET)
-
-Relational database design (SQL Server)
-
-Query optimization and data modeling
-
-Structured application architecture
-
-
+- 🎓 Studying **ADSO** at SENA — Centro para la Industria Petroquímica (CIP)
+- 🗄️ Genuinely passionate about **databases, SQL, and relational modeling**
+- 🔁 Learning proper **Git workflows**: branching, pull requests, branch protection
+- 🐧 Daily-driving **Linux (Manjaro)** as my main development environment
+- 🎯 Goal: Build a strong backend and database foundation before scaling to larger architectures
 
 ---
 
-Languages
+## 🧠 Technical Focus
 
-
-
-Language	Context
-
-C#	Desktop apps with Windows Forms (.NET)
-Python	Learning backend logic and scripting
-Bash / Zsh	Daily Linux terminal usage
-
-
+- Backend-oriented development (C# / .NET)
+- Relational database design (SQL Server)
+- Query optimization and data modeling
+- Structured application architecture
 
 ---
 
-Databases
+## Languages
 
+[![Languages](https://skillicons.dev/icons?i=cs,py,bash&theme=dark)](https://skillicons.dev)
 
-
-
-Tool	Context
-
-SQL Server	Relational modeling, queries, SSMS
-MongoDB	NoSQL, document-based modeling, Atlas Cloud
-
-
+| Language | Context |
+|----------|---------|
+| C# | Desktop apps with Windows Forms (.NET) |
+| Python | Learning backend logic and scripting |
+| Bash / Zsh | Daily Linux terminal usage |
 
 ---
 
-Tools & Environment
+## Databases
 
+[![Databases](https://skillicons.dev/icons?i=sqlserver&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=sqlserver,mongodb&theme=dark)](https://skillicons.dev)
 
-
-Tool	Context
-
-Git + GitHub	Version control, branching, pull requests
-VS Code	General development
-Visual Studio	C# development
-JetBrains Rider	C# development on Linux
-Linux (Manjaro)	Main OS
-Notion	Notes and personal organization
-Jira	Project tracking (SENA coursework)
-
-
+| Tool | Context |
+|------|---------|
+| SQL Server | Relational modeling, queries, SSMS |
+| MongoDB | NoSQL, document-based modeling, Atlas Cloud |
 
 ---
 
-Featured Projects
+## Tools & Environment
 
-🗓️ EventPlus
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,rider,linux,notion,jira&theme=dark)](https://skillicons.dev)
 
-Desktop event management system built for SENA academic projects.
-
-Built with C# Windows Forms + MongoDB Atlas — includes role-based authentication (Leader/Invitee), event CRUD, attendee management with schedule conflict validation, and monthly filtering.
-
-→ View repository
-
-🗓️ EventPlanner
-
-Desktop event management system for Centro para la Industria Petroquímica (CIP) at SENA.
-
-Built with C# Windows Forms + SQL Server — includes user authentication, event registration, group management, and participation reports for the Bienestar al Aprendiz area.
-
-→ View repository
-
+| Tool | Context |
+|------|---------|
+| Git + GitHub | Version control, branching, pull requests |
+| VS Code | General development |
+| Visual Studio | C# development |
+| JetBrains Rider | C# development on Linux |
+| Linux (Manjaro) | Main OS |
+| Notion | Notes and personal organization |
+| Jira | Project tracking (SENA coursework) |
 
 ---
 
-GitHub Stats
+## Featured Projects
 
-<p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres-fls&theme=react-dark&bg_color=0d1117&color=2ea043&line=2ea043&point=9be9a8&area=true&hide_border=true" />  
-</p>  
----
+### 🗓️ EventPlus
+Desktop event management system built for **SENA academic projects**.
 
-<p align="center">  
-  <img src="https://raw.githubusercontent.com/andres-fls/andres-fls/main/github-metrics.svg" />  
-</p>  
----
+Built with **C# Windows Forms + MongoDB Atlas** — includes role-based authentication (Leader/Invitee), event CRUD, attendee management with schedule conflict validation, and monthly filtering.
 
-Currently Improving
+→ [View repository](https://github.com/andres-fls/eventPlus)
 
-SQL query writing: JOINs, subqueries, GROUP BY, aggregations
+### 🗓️ EventPlanner
+Desktop event management system for **Centro para la Industria Petroquímica (CIP)** at SENA.
 
-Database modeling and normalization (ERD, relational design)
+Built with **C# Windows Forms + SQL Server** — includes user authentication, event registration, group management, and participation reports for the Bienestar al Aprendiz area.
 
-C# + SQL Server integration in desktop applications
-
-Git workflow discipline: commits, PRs, protected branches
-
-
+→ [View repository](https://github.com/andres-fls/EventPlanner)
 
 ---
 
-Contact
+## GitHub Stats
 
-📧 andres.fas.070893@gmail.com
-📍 🇨🇴 Colombia
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=andres-fls&theme=react-dark&bg_color=0d1117&color=2ea043&line=2ea043&point=9be9a8&area=true&hide_border=true" />
+</p>
 
 ---
 
-Last updated: May 2026
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andres-fls/andres-fls/main/github-metrics.svg" />
+</p>
+
+---
+
+## Currently Improving
+
+- SQL query writing: JOINs, subqueries, GROUP BY, aggregations
+- Database modeling and normalization (ERD, relational design)
+- C# + SQL Server integration in desktop applications
+- Git workflow discipline: commits, PRs, protected branches
+
+---
+
+## Contact
+
+📧 **andres.fas.070893@gmail.com**  
+📍 **🇨🇴 Colombia**
+
+---
+
+*Last updated: May 2026*
