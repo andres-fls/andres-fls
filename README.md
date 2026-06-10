@@ -21,7 +21,7 @@ Focused on building solid, well-structured systems from database design and back
 * 🗄️ Genuinely passionate about **databases, SQL, and relational modeling**
 * ☁️ Experience deploying applications and databases on **Microsoft Azure**
 * 🔁 Practicing proper **Git workflows**: branching, pull requests, and repository management
-* 🐧 Daily-driving **Linux (Manjaro)** as my main development environment
+* 🐧 Daily Linux user with experience across **Arch-based** and **Debian-based** distributions
 * 🎯 Goal: Build scalable and well-structured backend systems with strong software architecture principles
 
 ---
